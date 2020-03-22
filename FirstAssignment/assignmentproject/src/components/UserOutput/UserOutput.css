@@ -1,0 +1,12 @@
+.UserOutput {
+    width: 500px;
+    height: auto;
+    padding: 25px 25px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    border: 1px solid gray;
+    margin: 20px 0px;
+    margin-left: auto;
+    margin-right: auto;
+}

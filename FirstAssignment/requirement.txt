@@ -1,0 +1,11 @@
+Creating an react application that satisfy requirements below:
+    + Create Two new components: UserInput and UserOuput x
+    + UserInput should hold an input element, UserOuput two paragraphs x
+    + Output multiple UserOutput components in the App Component (any paragraph texts of your choice) x
+    + Pass a user name (of your choice) to UserInput via props and display it there x
+    + Add state to the App component (=> the username) and pass the username to the Output Component x
+    + Add a method to manipulate the state (=> an EventHanlder method)
+    + Pass an event-hanlder method reference to the UserInput component and bind it to the input-change event
+    + Ensure that the new input entered by the user overwirtes the old username passed to the UserOutput
+    + Add two-way binding to your input in (UserInput) to also display the starting username 
+    + Add styling as your choice to your components/elements in the components - both with inline styles and stylesheets
